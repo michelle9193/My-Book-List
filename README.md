@@ -24,13 +24,10 @@ Practice Project Using Vanilla JavaScript
 3. Vanilla JavaScript
 
 
-```
-:bowtie:
 
 :x: jQuery or Any Libraries
 :x: Frameworks
 
-```
 
 ### Changelog 
 
