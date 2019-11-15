@@ -15,15 +15,15 @@ Practice Project Using Vanilla JavaScript
  - GitHub
  - Git Bash
 
-##
 
+```
 ### Technologies Used
 
 1. HTML
 2. CSS
 3. Vanilla JavaScript
 
-
+```
 
 :x: jQuery or Any Libraries
 
