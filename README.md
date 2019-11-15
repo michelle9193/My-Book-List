@@ -26,7 +26,9 @@ Practice Project Using Vanilla JavaScript
 
 
 :x: jQuery or Any Libraries
+
 :x: Frameworks
+
 
 
 ### Changelog 
