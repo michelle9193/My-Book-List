@@ -23,10 +23,10 @@ Practice Project Using Vanilla JavaScript
 2. CSS
 3. Vanilla JavaScript
 
-```
 
 ```
-```
+:bowtie:
+
 :x: jQuery or Any Libraries
 :x: Frameworks
 
