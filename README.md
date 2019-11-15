@@ -1,5 +1,6 @@
 # My-Book-List
-Practice Project Using Vanilla JavaScript
+
+We build a full app in JavaScript without and library or JS framework, using classes, local storage and more.
 
 ## Setting up your workspace
 
