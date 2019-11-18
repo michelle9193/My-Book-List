@@ -8,7 +8,7 @@ We build a full app in JavaScript without and library or JS framework, using cla
 - Create your base folder structure (html, css, images, js,scss)
 
 ## Live Link
-- 
+- https://michelle9193.github.io/My-Book-List/
 
 ## Prerequisites
 
